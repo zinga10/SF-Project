@@ -1,3 +1,4 @@
 add multiple files.
 just checking without conflict
 check simple push for WI7
+check pull from remote master to local master WI8
